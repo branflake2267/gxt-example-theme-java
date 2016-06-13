@@ -1,5 +1,5 @@
 # GXT Example
-GXT Application using Java standard directory construction.
+GXT Application using Java standard directory construction. This example theme includes Triton for GXT 4.0.1. 
 
 ## Reference
 
