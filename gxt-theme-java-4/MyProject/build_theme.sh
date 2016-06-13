@@ -1,4 +1,6 @@
 #!/bin/sh
+# Generate the triton theme, which will output into theme_generated folder. 
+# TODO build a IDE Java launcher with the same settings below to make it easier to launch and generate.
 
 # docs
 #http://docs.sencha.com/gxt/4.x/ui/theme/GeneratingThemes.html

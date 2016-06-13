@@ -1,5 +1,6 @@
 
 gwt-unitCache
-theme_generated
 myproject
 classes
+
+/gxt-theme-java-4/MyProject/theme_generated/com/*
