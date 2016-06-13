@@ -6,9 +6,10 @@ GXT Application using Java standard directory construction.
  *  http://docs.sencha.com/gxt/4.x/ui/theme/GeneratingThemes.html
 
 ## Running
-0. Change the build_theme.sh theme builder directory. (Windows users refer to docs to make your own)
-1. Build the theme first by running the build_theme.sh script.  
-2. Debug in SDM
+0. Fix the build path or classpath for the project. 
+1. Change the build_theme.sh theme builder directory. (Windows users refer to docs to make your own)
+2. Build the theme first by running the build_theme.sh script.  
+3. Debug in SDM
  
 ## Directories
 * theme_src - appearance overrides are done here, check out what is in there.
