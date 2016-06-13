@@ -1,0 +1,23 @@
+@if(!is("user.agent", "ie8")) {
+  input[type="checkbox"] {
+    opacity: 0;
+    /* position over the label to continue receiving input */
+    position: absolute;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: PADDING;
+    top: 5px;
+  }
+
+  input[type="checkbox"] + label {
+    display:inline-block;
+    margin:-1px 4px 0 0;
+    vertical-align: middle;
+    gwt-sprite: "unchecked";
+    padding: PADDING;
+  }
+
+  input[type="checkbox"]:checked + label {
+    gwt-sprite: "checked";
+  }
+}
